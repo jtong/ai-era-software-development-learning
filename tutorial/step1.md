@@ -7,7 +7,7 @@
 
 ## 学习步骤
 
-- 打开教程网站： https://www.w3schools.com/html/html_examples.asp
+- 打开教程网站： https://www.w3schools.com/html/html_intro.asp
 - 把左侧的 HTML Tutorial 和 HTML Forms两个章节的每一个练习都实验一下，建立起对HTML如何使用的系统认识，以及它会产生什么效果，能做哪些基础事情有一个直观认识。
   - 实验过程中要试着自己改改，看看效果。
 - 至少做一次：本地自己用vscode新建一个html文件，拖到chrome浏览器里打开，看看效果。这样对以后的开发流程会有一个直观认识。
